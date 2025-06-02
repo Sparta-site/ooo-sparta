@@ -52,7 +52,7 @@ ul{
 }
 /*-- //Reset-Code --*/
 body {
-    background: url(../images/b5.jpg);
+    background: url(../images/b6.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -64,7 +64,7 @@ body {
 
 .count-time{margin:10em 0;}
 .top {
-    margin: 5em;
+    margin: 15em;
     text-align: center;
 }
 .top h1 {
