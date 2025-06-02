@@ -64,12 +64,12 @@ body {
 
 .count-time{margin:10em 0;}
 .top {
-    margin: 10em;
+    margin: 1em;
     text-align: center;
 }
 .top h1 {
     color: #000000;
-    font-size: 30px;
+    font-size: 40px;
 	letter-spacing:14px; 
 }
 .top h2 {
