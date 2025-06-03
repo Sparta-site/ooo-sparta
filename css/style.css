@@ -64,12 +64,12 @@ body {
 
 .count-time{margin:10em 0;}
 .top {
-    margin: 10em;
+    margin: 20em;
     text-align: center;
 }
 .top h1 {
     color: #000000;
-    font-size: 15px;
+    font-size: 20px;
 	letter-spacing:5px; 
 }
 .top h2 {
@@ -85,106 +85,6 @@ body {
 }
 .examples{    width: 77%;
     margin: 0 auto;
-}
-/*--newsletter--*/
-.newsletter {
-	margin:1em 0;
-}
-.newsletter{
-             text-align:center;}
-
-.letter{margin:0 0 1.6em;}
-.letter input[type="email"] {
-    padding:12px 12px;
-    border: none;
-	border-bottom:2px solid #000;
-    width: 40%;
-    margin-right: 10px;
-    font-size: .9em;
-    color: #fff;
-    outline: none;
-    display: inline-block;
-    background: rgba(12, 12, 12, 0.36);
-	letter-spacing:1px;
-
-}
-.letter input[type="submit"] {
-    font-size: 14px;
-    background: #ffa51f;
-    border: solid 1px #ffa51f;
-    color: #000;
-    padding:12px 18px;
-    outline: none;
-    display: inline-block;
-    vertical-align: middle;
-	text-transform:uppercase;
-    cursor: pointer;
-    transition: 0.5s all;
-    -webkit-transition: 0.5s all;
-    -moz-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-    -webkit-appearance: none;
-	letter-spacing:1px;
-	    font-weight: 600;
-
-}   
-.letter input[type="submit"]:hover {
-     background:rgba(2, 71, 114, 0);
-    border: solid 1px #fff;
-	 color: #fff;
-
-}
-
-/*--//newsletter--*/
-.copyright{margin:3em 0 0em;
-            text-align:center;}
-.copyright p {
-    font-size: 13px;
-    color: #fff;
-    letter-spacing: 3px;
-}
-.copyright p a{color:#ffa51f;
-              text-decoration:underline;}
-.copyright p a:hover{color:#fff;}
-.icons ul li{
-    display: inline-block;
-}
-.icons ul li a {
-	color: #fff;
-	border: 1px solid #fff;
-    width: 31px;
-    height: 31px;
-    line-height: 32px;
-		border-radius:20px;
-		display:inline-block;
-		    -webkit-border-radius:20px;
-    -moz-border-radius:20px;
-    -o-border-radius:20px;
-    -ms-border-radius:20px;
-}
-.icons ul li a span.fa{
-	font-size:15px;
-	    margin: 0.5em; 
-    transition: 0.5s all;
-    -webkit-transition: 0.5s all;
-    -moz-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-}
-.icons ul li a span.fa.fa-facebook:hover {
-    color: #3b5998;
-}
-
-.icons ul li a span.fa.fa-twitter:hover{
-	color: #55acee;
-}
-
-.icons ul li a span.fa.fa-rss:hover{
-	color: #f26522;
-}
-.icons ul li a span.fa.fa-vk:hover{
-	color: #45668e;
 }
 
 /*--counttime--*/
