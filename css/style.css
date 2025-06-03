@@ -316,7 +316,7 @@ body {
 .simply-countdown-losange > .simply-section {
     width: 128px;
     height: 128px;
-    margin: 16px 16px;
+    margin: 16px 0px;
 } 	
 .simply-countdown-losange > .simply-section > div .simply-amount {
     font-size: 55px;
@@ -336,7 +336,7 @@ body {
 .simply-countdown-losange > .simply-section {
     width: 124px;
     height: 124px;
-    margin: 17px 17px;
+    margin: 17px 0px;
 }
 .top h1 {
     font-size: 30px;
@@ -365,7 +365,7 @@ top h2 {
 .simply-countdown-losange > .simply-section {
     width: 115px;
     height: 115px;
-    margin: 17px 17px;
+    margin: 17px 0px;
 }
 }
 @media(max-width:667px){
@@ -404,7 +404,7 @@ letter-spacing:6px;
 .simply-countdown-losange > .simply-section {
     width: 100px;
     height: 100px;
-    margin: 31px 10px;
+    margin: 31px 0px;
 }
 .copyright p {
 
@@ -419,7 +419,7 @@ letter-spacing:6px;
 .simply-countdown-losange > .simply-section {
     width: 95px;
     height: 95px;
-    margin: 31px 7px;
+    margin: 31px 0px;
 }
 .letter input[type="email"] {
     width: 64%;	
@@ -436,7 +436,7 @@ letter-spacing:6px;
 .simply-countdown-losange > .simply-section {
     width: 90px;
     height: 90px;
-    margin: 31px 5px;
+    margin: 31px 0px;
 }
 .letter input[type="email"] {
     width: 67%;
@@ -459,7 +459,7 @@ letter-spacing:6px;
 .simply-countdown-losange > .simply-section {
    width: 65px;
     height: 65px;
-    margin: 20px 4px;
+    margin: 20px 0px;
 }
 .copyright p {
     letter-spacing: 1px;
@@ -500,7 +500,7 @@ letter-spacing:6px;
 .simply-countdown-losange > .simply-section {
     width: 70px;
     height: 70px;
-    margin: 23px 12px;
+    margin: 23px 0px;
 }
 .examples {
     width: 62%;
@@ -538,7 +538,7 @@ margin-right:0;}
     height: 68px;
 }
 .copyright {
-    margin: 1em 1em;
+    margin: 1em 0;
 }
 
 }
@@ -546,7 +546,7 @@ margin-right:0;}
 	.simply-countdown-losange > .simply-section {
     width: 66px;
     height: 66px;
-	margin:22px 12px;
+	margin:22px 0px;
 }
 	.letter input[type="email"] {
     padding: 7px 12px;
