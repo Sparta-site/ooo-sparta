@@ -325,7 +325,7 @@ body {
 @media(max-width:768px){
 .count-center {
     width: 98%;
-	padding: 8em 0;
+	/*--padding: 8em 0;--*/
 }
 .examples {
     width: 94%;
@@ -370,7 +370,7 @@ top h2 {
 }
 @media(max-width:667px){
 	.count-center {
-    padding: 4em 0;
+    /*--padding: 4em 0;--*/
 }
 	.examples {
     width: 90%;
