@@ -378,7 +378,7 @@ top h2 {
 .simply-countdown-losange > .simply-section {
     width: 105px;
     height: 105px;
-	    margin: 11px;
+	    margin: 11px 0px;
 }	
 .simply-countdown-losange > .simply-section > div .simply-amount {
     font-size: 43px;
@@ -503,7 +503,7 @@ letter-spacing:6px;
 }
 .examples {
     width: 62%;
-    margin: 0 auto;
+    margin: 0px;
 }
 .top h1 {
     font-size: 30px;
@@ -517,10 +517,10 @@ top h2 {
 width: 62%;
 margin-right:0;}
 .letter {
-    margin:0 0 1em;
+    margin:0 0 0;
 }
 .copyright {
-    margin: 1em 1em;
+    margin: 1em 0;
 }
 
 }
@@ -548,10 +548,10 @@ margin-right:0;}
 	margin:22px 0px;
 }
 	.letter input[type="email"] {
-    padding: 7px 12px;
+    padding: 7px 0px;
 }
 	.letter input[type="submit"] {
-   padding: 7px 18px;
+   padding: 7px 0px;
 }
 	.top h1 {
     font-size: 27px;
@@ -578,7 +578,7 @@ margin-right:0;}
     line-height: 20px;
 }
 	.copyright {
-    margin: 0em 1em;
+    margin: 0em 0;
 }
 	.top h1 {
 
@@ -588,7 +588,7 @@ margin-right:0;}
     width: 54%;
 }
 .letter input[type="submit"] {
-    padding: 6px 12px;
+    padding: 6px 0px;
 }
 .simply-countdown-losange > .simply-section {
     width: 54px;
