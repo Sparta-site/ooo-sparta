@@ -69,7 +69,7 @@ body {
 }
 .top h1 {
     color: #000000;
-    font-size: 20px;
+    font-size: 15px;
 	letter-spacing:5px; 
 }
 .top h2 {
@@ -319,7 +319,7 @@ body {
     margin: 16px 0px;
 } 	
 .simply-countdown-losange > .simply-section > div .simply-amount {
-    font-size: 55px;
+    font-size: 35px;
 }
 }
 @media(max-width:768px){
@@ -334,8 +334,8 @@ body {
     font-size: 5px
 }
 .simply-countdown-losange > .simply-section {
-    width: 120px;
-    height: 120px;
+    width: 110px;
+    height: 110px;
     margin: 17px 0px;
 }
 .top h1 {
@@ -360,7 +360,7 @@ top h2 {
     width: 95%;
 }
 .simply-countdown-losange > .simply-section > div .simply-amount {
-    font-size: 49px;
+    font-size: 10px;
 }	
 .simply-countdown-losange > .simply-section {
     width: 115px;
