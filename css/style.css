@@ -319,7 +319,7 @@ body {
     margin: 16px 0px;
 } 	
 .simply-countdown-losange > .simply-section > div .simply-amount {
-    font-size: 35px;
+    font-size: 25px;
 }
 }
 @media(max-width:768px){
@@ -360,7 +360,7 @@ top h2 {
     width: 95%;
 }
 .simply-countdown-losange > .simply-section > div .simply-amount {
-    font-size: 10px;
+    font-size: 5px;
 }	
 .simply-countdown-losange > .simply-section {
     width: 115px;
@@ -381,7 +381,7 @@ top h2 {
 	    margin: 11px 0px;
 }	
 .simply-countdown-losange > .simply-section > div .simply-amount {
-    font-size: 43px;
+    font-size: 10px;
 }
 .copyright p {
     letter-spacing: 2px;
@@ -394,7 +394,7 @@ letter-spacing:6px;
 	.count-center {
     padding: 3em 0;
 	.top h1 {
-    font-size: 40px;
+    font-size: 20px;
     letter-spacing: 12px;
 }
 .top h2 {
@@ -426,11 +426,11 @@ letter-spacing:6px;
 }
 @media(max-width:568px){
 	.top h1 {
-    font-size: 37px;
-    letter-spacing: 10px;
+    font-size: 17px;
+    letter-spacing: 5px;
 }
 .simply-countdown-losange > .simply-section > div .simply-amount {
-    font-size: 35px;
+    font-size: 15px;
 }
 .simply-countdown-losange > .simply-section {
     width: 90px;
@@ -447,8 +447,8 @@ letter-spacing:6px;
 }
 @media(max-width:480px){
 	.top h1 {
-    font-size: 30px;
-    letter-spacing: 11px;
+    font-size: 10px;
+    letter-spacing: 2px;
 }
 .top h2 {
     letter-spacing: 2px;
@@ -464,10 +464,10 @@ letter-spacing:6px;
     letter-spacing: 1px;
 }
 .simply-countdown-losange > .simply-section > div .simply-amount {
-    font-size: 29px;
+    font-size: 19px;
 }
 .simply-countdown-losange > .simply-section > div .simply-word {
-    font-size: 13px;
+    font-size: 5px;
 }
 .count-time {
     margin:0px;
@@ -488,8 +488,8 @@ letter-spacing:6px;
     margin: 0.5em 0;
 }	
 	.top h1 {
-    font-size: 30px;
-    letter-spacing: 7px;
+    font-size: 10px;
+    letter-spacing: 3px;
 }
 .examples {
     width: 44%;
@@ -506,8 +506,8 @@ letter-spacing:6px;
     margin: 0px;
 }
 .top h1 {
-    font-size: 30px;
-    letter-spacing: 7px;
+    font-size: 10px;
+    letter-spacing: 3px;
 }
 top h2 {
     letter-spacing: 1px;
@@ -526,8 +526,8 @@ margin-right:0;}
 }
 @media(max-width:384px){
 	.top h1 {
-    font-size: 29px;
-    letter-spacing: 6px;
+    font-size: 19px;
+    letter-spacing: 3px;
 }
 .examples {
     width: 61%;
@@ -554,7 +554,7 @@ margin-right:0;}
    padding: 7px 0px;
 }
 	.top h1 {
-    font-size: 27px;
+    font-size: 17px;
 }
 	.top h2{
 	line-height:22px;
